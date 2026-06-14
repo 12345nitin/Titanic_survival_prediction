@@ -7,7 +7,7 @@ such as survived, pclass,	sex, age,	sibsp, parch,	fare,	embarked,	class, adult_m
 ## 📊 Dataset
 - Source: Titanic Dataset (seaborn)
 - Size: 891 rows, 15 columns
-- Features: 'survived', 'pclass', 'sex', 'age', 'sibsp', 'parch', 'fare','embarked', 'class', 'who', 'adult_male', 'deck', 'embark_town', 'alive', 'alone'                                                                                                                                                                            
+- Features: 'survived', 'pclass', 'sex', 'age', 'sibsp', 'parch', 'fare','embarked', 'class', 'who', 'adult_male', 'deck', 'embark_town', 'alive_alone'                                                                                                                                                                            
 ## 🛠️ Tech Stack
 Python, Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn, Jupyter Notebook, Google Colab
 
